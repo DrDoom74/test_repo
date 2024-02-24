@@ -1,3 +1,6 @@
 I add a line here.
 Also 1 line.
 + second line.
+
+# feature 1
+Also a part of new feature.
