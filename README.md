@@ -7,3 +7,5 @@ Test feature.
 
 # feature 2
 Code of the feature 2.
+
+some text at the end here
